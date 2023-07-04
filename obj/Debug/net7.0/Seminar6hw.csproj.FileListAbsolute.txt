@@ -1,0 +1,15 @@
+C:\Users\yura\Desktop\Gb\Programming\Seminar6hw\bin\Debug\net7.0\Seminar6hw.exe
+C:\Users\yura\Desktop\Gb\Programming\Seminar6hw\bin\Debug\net7.0\Seminar6hw.deps.json
+C:\Users\yura\Desktop\Gb\Programming\Seminar6hw\bin\Debug\net7.0\Seminar6hw.runtimeconfig.json
+C:\Users\yura\Desktop\Gb\Programming\Seminar6hw\bin\Debug\net7.0\Seminar6hw.dll
+C:\Users\yura\Desktop\Gb\Programming\Seminar6hw\bin\Debug\net7.0\Seminar6hw.pdb
+C:\Users\yura\Desktop\Gb\Programming\Seminar6hw\obj\Debug\net7.0\Seminar6hw.csproj.AssemblyReference.cache
+C:\Users\yura\Desktop\Gb\Programming\Seminar6hw\obj\Debug\net7.0\Seminar6hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yura\Desktop\Gb\Programming\Seminar6hw\obj\Debug\net7.0\Seminar6hw.AssemblyInfoInputs.cache
+C:\Users\yura\Desktop\Gb\Programming\Seminar6hw\obj\Debug\net7.0\Seminar6hw.AssemblyInfo.cs
+C:\Users\yura\Desktop\Gb\Programming\Seminar6hw\obj\Debug\net7.0\Seminar6hw.csproj.CoreCompileInputs.cache
+C:\Users\yura\Desktop\Gb\Programming\Seminar6hw\obj\Debug\net7.0\Seminar6hw.dll
+C:\Users\yura\Desktop\Gb\Programming\Seminar6hw\obj\Debug\net7.0\refint\Seminar6hw.dll
+C:\Users\yura\Desktop\Gb\Programming\Seminar6hw\obj\Debug\net7.0\Seminar6hw.pdb
+C:\Users\yura\Desktop\Gb\Programming\Seminar6hw\obj\Debug\net7.0\Seminar6hw.genruntimeconfig.cache
+C:\Users\yura\Desktop\Gb\Programming\Seminar6hw\obj\Debug\net7.0\ref\Seminar6hw.dll
